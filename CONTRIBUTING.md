@@ -26,6 +26,20 @@ Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md) to maintain a r
 6. Push to your branch (`git push origin feature/improvement`)
 7. Create a Pull Request
 
+## Using Generative AI for Contributions
+
+We recognize and encourage the use of generative AI tools (like GitHub Copilot, ChatGPT, or Claude) to assist with contributions, however:
+
+- **You must thoroughly understand any AI-generated code you submit**
+- **Be prepared to explain and defend all aspects of your contribution** as if you wrote it yourself
+- **Review AI-generated code carefully** for security issues, bugs, and alignment with project standards
+- **Add comprehensive comments and documentation** for complex AI-generated sections
+- **Conduct thorough testing** of AI-generated code before submission
+- **Disclose significant AI assistance** in your PR description when appropriate
+- **Never blindly submit AI-generated code** without verification and understanding
+
+Remember that while AI can help with implementation details, you are ultimately responsible for the quality, security, and correctness of your contributions.
+
 ## Pull Request Guidelines
 
 - Ensure your code follows the project's coding standards
