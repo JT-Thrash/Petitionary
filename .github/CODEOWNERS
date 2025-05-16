@@ -1,0 +1,14 @@
+# This file defines who is automatically requested for review when someone 
+# opens a pull request that modifies specific files or directories.
+# For more information, see:
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owners for everything in the repo
+# Each pull request that touches any file will require review from JT-Thrash
+*       @JT-Thrash
+
+# You can also specify different owners for specific files/directories if needed
+# For example:
+# /frontend/   @JT-Thrash @frontend-team
+# /backend/    @JT-Thrash @backend-team
+# *.js         @JT-Thrash @js-developers
